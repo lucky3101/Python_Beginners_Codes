@@ -3,7 +3,7 @@
 These are the sample codes for Beginners:
 
 1. HealthyProgrammer.py:
-    • Write a program which will work between 9am to 5pm daily.
+	• Write a program which will work between 9am to 5pm daily.
     • After every 15min, a song has to play to remind programmer to drink water.
     • After every 30min, a song has to play to remind programmer to do eyes exercise.
     • After every 45min, a song has to play to remind programmer to do exercise.
